@@ -1,19 +1,19 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/unravela/gitwrk/releases/download/v1.0.6/gitwrk_1.0.6_Windows_i386.zip",
+            "url": "https://github.com/unravela/gitwrk/releases/download/v1.0.7/gitwrk_1.0.7_Windows_i386.zip",
             "bin": [
                 "gitwrk.exe"
             ],
-            "hash": "1185e067bb11503e1e6e9433a68e327741ccd3f644fb7be3904e6a9912e8e4dd"
+            "hash": "23982ee22978c8f157e76ac7abd80c5a13982636acd05a1d8761be70226ce16b"
         },
         "64bit": {
-            "url": "https://github.com/unravela/gitwrk/releases/download/v1.0.6/gitwrk_1.0.6_Windows_x86_64.zip",
+            "url": "https://github.com/unravela/gitwrk/releases/download/v1.0.7/gitwrk_1.0.7_Windows_x86_64.zip",
             "bin": [
                 "gitwrk.exe"
             ],
-            "hash": "8694a5c14a30bf2d60f95e1fe8e27e1f076e0464574c26205910bd224c671c57"
+            "hash": "8e9e275014d903c190758fddec1c7043039ffc5b9421e102a0d4a816a30b8726"
         }
     },
     "homepage": "https://github.com/unravela/gitwrk",
