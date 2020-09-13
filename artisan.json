@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/unravela/artisan/releases/download/v0.0.1/artisan_0.0.1_Windows_i386.zip",
+            "bin": [
+                "artisan.exe"
+            ],
+            "hash": "3cb37ca2282bc9ad984b8296dbc20fecac8d46d047ef444c82aea0bb28acc91d"
+        },
+        "64bit": {
+            "url": "https://github.com/unravela/artisan/releases/download/v0.0.1/artisan_0.0.1_Windows_x86_64.zip",
+            "bin": [
+                "artisan.exe"
+            ],
+            "hash": "d25406927d64cf67dfa0fea9549ffc36c2acb25d4dba39acfd000538bcc953c8"
+        }
+    },
+    "homepage": "https://github.com/unravela/artisan",
+    "license": "Apache 2.0",
+    "description": "The build orchestrator for monorepositories and complex codebases"
+}
