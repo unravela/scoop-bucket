@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/unravela/artisan/releases/download/v0.0.1/artisan_0.0.1_Windows_i386.zip",
+            "url": "https://github.com/unravela/artisan/releases/download/v0.0.2/artisan_0.0.2_Windows_i386.zip",
             "bin": [
                 "artisan.exe"
             ],
-            "hash": "3cb37ca2282bc9ad984b8296dbc20fecac8d46d047ef444c82aea0bb28acc91d"
+            "hash": "148712dc75b05cf4d619b0a6b3b5a4acfafb295e4ed052b992bb8ba6d83af35c"
         },
         "64bit": {
-            "url": "https://github.com/unravela/artisan/releases/download/v0.0.1/artisan_0.0.1_Windows_x86_64.zip",
+            "url": "https://github.com/unravela/artisan/releases/download/v0.0.2/artisan_0.0.2_Windows_x86_64.zip",
             "bin": [
                 "artisan.exe"
             ],
-            "hash": "d25406927d64cf67dfa0fea9549ffc36c2acb25d4dba39acfd000538bcc953c8"
+            "hash": "53bde8dc1d1fe4e071282743c905306d182177ade1036d815e9597bc15d01472"
         }
     },
     "homepage": "https://github.com/unravela/artisan",
